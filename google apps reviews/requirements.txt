@@ -1,0 +1,7 @@
+pandas
+json
+tqdm
+matplotlib
+seaborn
+pygments
+google_play_scraper
